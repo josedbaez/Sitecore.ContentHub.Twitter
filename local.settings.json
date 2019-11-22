@@ -1,0 +1,23 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=;AccountKey=;BlobEndpoint=",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  },
+  "ServiceBus": {
+    "ManageSendListenConnectionString": "Endpoint=sb://"
+  },
+  "ContentHub": {
+    "Host": "https://CONTENT-HUB-ENVIRONMENT-URL",
+    "ClientId": "",
+    "ClientSecret": "",
+    "Username": "",
+    "Password": ""
+  },
+  "Twitter": {
+    "ConsumerKey": "",
+    "ConsumerSecret": "",
+    "UserAccessToken": "",
+    "UserAccessSecret": ""
+  }
+}
