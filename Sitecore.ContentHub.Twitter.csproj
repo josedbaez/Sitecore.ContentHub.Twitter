@@ -11,7 +11,7 @@
     <PackageReference Include="Microsoft.Azure.WebJobs.Extensions.ServiceBus" Version="3.0.3" />
     <PackageReference Include="Microsoft.Azure.WebJobs.ServiceBus" Version="2.3.0" />
     <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="1.0.29" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
     <PackageReference Include="Stylelabs.M.Sdk.WebClient" Version="3.2.101" />
     <PackageReference Include="TweetinviAPI" Version="4.0.3" />
   </ItemGroup>
